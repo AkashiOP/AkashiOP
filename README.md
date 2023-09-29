@@ -1,5 +1,7 @@
 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/dinokage)](https://discord.com/users/dinokage)
+
 - 👋 Hi, I’m @dinokage
 - 👀 I’m interested in Flutter and Internet of Things
 - 🌱 I’m currently learning Full Stack Development
