@@ -1,6 +1,6 @@
 
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/446946428158214164)](https://discord.com/users/dinokage)
+[![Discord Presence](https://lanyard.cnrad.dev/api/446946428158214164)](https://discord.com/users/dinokage)
 
 - 👋 Hi, I’m @dinokage
 - 👀 I’m interested in Flutter and Internet of Things
