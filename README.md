@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, Angular, WASM and Ruby**
 
-- 👨‍💻 All of my projects are available at [dinokage.com (up soon)](https://dinokage.com)
+- 👨‍💻 All of my projects are available at [dinokage.in (up soon)](https://dinokage.in)
 
 - 💬 Ask me about **anything(let's find it out together)**
 
